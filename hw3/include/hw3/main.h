@@ -1,5 +1,13 @@
 namespace dohyun
 {
+    class Monster
+    {
+    public:
+        int HP, x, y;
+        Monster();
+        Monster(int x, int y, int HP);
+        int Be_Attacked();
+    };
     class Player
     {
     public:
@@ -10,14 +18,6 @@ namespace dohyun
         void Show_Status();
         void X_move(int move);
         void Y_move(int move);
-    };
-    class Monster
-    {
-    public:
-        int HP, x, y;
-        Monster();
-        Monster(int x, int y, int HP);
-        int Be_Attacked();
     };
 
     Player::Player(void)
@@ -36,13 +36,15 @@ namespace dohyun
     }
     void Player::Attack(Monster &target)
     {
-        if(this->x==target.x&&this->y==target.y){
+        if (this->x == target.x && this->y == target.y)
+        {
             target.Be_Attacked();
         }
-        else{
-            std::cout<<"공격실패!"<<std::endl;
+        else
+        {
+            std::cout << "공격실패!" << std::endl;
         }
-        this->MP-=1;
+        this->MP -= 1;
     }
     void Player::Show_Status(void)
     {
@@ -53,12 +55,12 @@ namespace dohyun
     void Player::X_move(int move)
     {
         this->x += move;
-        std::cout<<"X position "<<move<<" moved!"<<std::endl;
+        std::cout << "X position " << move << " moved!" << std::endl;
     }
     void Player::Y_move(int move)
     {
         this->y += move;
-        std::cout<<"Y position "<<move<<" moved!"<<std::endl;
+        std::cout << "Y position " << move << " moved!" << std::endl;
     }
 
     Monster::Monster()
@@ -80,7 +82,7 @@ namespace dohyun
                   << "남은 체력:" << this->HP << std::endl;
         if (this->HP <= 0)
         {
-            std::cout << "Monster Die!!";
+            std::cout << "Monster Die!!" << std::endl;
             return 1;
         }
         return 0;
