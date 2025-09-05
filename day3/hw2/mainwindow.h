@@ -12,12 +12,13 @@ namespace Ui
 }
 QT_END_NAMESPACE
 
-class User{
-    public:
-        QString phone;
-        QString name;
-        int n;
-        User(QString phone, QString name, int n);
+class User
+{
+public:
+    QString phone;
+    QString name;
+    int n;
+    User(QString phone, QString name, int n);
 };
 class Queue
 {
