@@ -1,6 +1,9 @@
 #include "../include/mainwindow.h"
 #include "../build/ui_mainwindow.h"
 
+#include <QFile>
+#include <QTextStream>
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent), ui(new Ui::MainWindow)
 {
@@ -38,6 +41,7 @@ void MainWindow::on_pushButton_clicked()
     {
         this->str += '.';
     }
+    this->ui->label->setText(this->str);
 }
 
 void MainWindow::on_pushButton_2_clicked()
@@ -293,6 +297,12 @@ void MainWindow::on_pushButton_7_clicked()
 
 void MainWindow::on_pushButton_8_clicked()
 {
+    QFile file("log.txt");
+    file.open(QIODevice::WriteOnly | QIODevice::Append | QIODevice::Text);
+    QTextStream save(&file);
+    save << this->str << '\n';
+    file.close();
+
     this->str.clear();
     this->ui->label->setText(this->str);
 }
