@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/qt_template.dir/src/main.cpp.o CMakeFiles/qt_template.dir/src/mainwindow.cpp.o CMakeFiles/qt_template.dir/include/moc_mainwindow.cpp.o CMakeFiles/qt_template.dir/qrc_resources.cpp.o -o qt_template  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

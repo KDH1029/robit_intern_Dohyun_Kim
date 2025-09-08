@@ -1,0 +1,3 @@
+/home/dh/Documents/GitHub/robit_intern_Dohyun_Kim/day4/build-hw1-Desktop-Debug/CMakeFiles/qt_template.dir
+/home/dh/Documents/GitHub/robit_intern_Dohyun_Kim/day4/build-hw1-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dh/Documents/GitHub/robit_intern_Dohyun_Kim/day4/build-hw1-Desktop-Debug/CMakeFiles/rebuild_cache.dir
