@@ -314,7 +314,9 @@ CMakeFiles/hw1.dir/include/moc_mainwindow.cpp.o: include/moc_mainwindow.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/QString \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h
 
 CMakeFiles/hw1.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/stdc-predef.h \
@@ -957,6 +959,8 @@ CMakeFiles/hw1.dir/src/mainwindow.cpp.o: ../src/mainwindow.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/QString \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h \
   ui_mainwindow.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
@@ -970,23 +974,35 @@ CMakeFiles/hw1.dir/src/mainwindow.cpp.o: ../src/mainwindow.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qinputmethod.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qlocale.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMenuBar \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenubar.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenu.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qaction.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qactiongroup.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QStatusBar \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstatusbar.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
 
 
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QStatusBar:
-
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qactiongroup.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qaction.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QStatusBar:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qmap.h:
 
@@ -1027,6 +1043,8 @@ CMakeFiles/hw1.dir/src/mainwindow.cpp.o: ../src/mainwindow.cpp \
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qimage.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qtransform.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qline.h:
 
@@ -1142,6 +1160,8 @@ CMakeFiles/hw1.dir/src/mainwindow.cpp.o: ../src/mainwindow.cpp \
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qsysinfo.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
@@ -1189,6 +1209,8 @@ ui_mainwindow.h:
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
 
 /usr/include/c++/11/bits/stl_algobase.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qpalette.h:
 

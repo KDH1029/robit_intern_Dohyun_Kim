@@ -273,4 +273,32 @@ CMakeFiles/hw1.dir/src/mainwindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QString \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h \
- /home/dh/Documents/GitHub/robit_intern_Dohyun_Kim/day4/hw1/src/../build/ui_mainwindow.h
+ /home/dh/Documents/GitHub/robit_intern_Dohyun_Kim/day4/hw1/src/../build/ui_mainwindow.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qmap.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QApplication \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreapplication.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreevent.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qeventloop.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qguiapplication.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qinputmethod.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qlocale.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMenuBar \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenubar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenu.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qaction.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qactiongroup.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QStatusBar \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstatusbar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
