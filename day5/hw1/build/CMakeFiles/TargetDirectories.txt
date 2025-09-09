@@ -1,3 +1,0 @@
-/home/dh/Documents/GitHub/robit_intern_Dohyun_Kim/day5/hw1/build/CMakeFiles/hw1.dir
-/home/dh/Documents/GitHub/robit_intern_Dohyun_Kim/day5/hw1/build/CMakeFiles/edit_cache.dir
-/home/dh/Documents/GitHub/robit_intern_Dohyun_Kim/day5/hw1/build/CMakeFiles/rebuild_cache.dir
