@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-91daafd9f4c48d16b9d01fce475fe22b include/moc_mainwindow.cpp
-9b2d46329169ffb61926d7140ee579a1 ui_mainwindow.h
