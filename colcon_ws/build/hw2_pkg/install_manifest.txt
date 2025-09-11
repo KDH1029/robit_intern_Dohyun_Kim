@@ -1,0 +1,16 @@
+/home/dh/colcon_ws/install/hw2_pkg/lib/hw2_pkg/hw2_pkg
+/home/dh/colcon_ws/install/hw2_pkg/share/ament_index/resource_index/package_run_dependencies/hw2_pkg
+/home/dh/colcon_ws/install/hw2_pkg/share/ament_index/resource_index/parent_prefix_path/hw2_pkg
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/environment/ament_prefix_path.sh
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/environment/ament_prefix_path.dsv
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/environment/path.sh
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/environment/path.dsv
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/local_setup.bash
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/local_setup.sh
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/local_setup.zsh
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/local_setup.dsv
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/package.dsv
+/home/dh/colcon_ws/install/hw2_pkg/share/ament_index/resource_index/packages/hw2_pkg
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/cmake/hw2_pkgConfig.cmake
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/cmake/hw2_pkgConfig-version.cmake
+/home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/package.xml

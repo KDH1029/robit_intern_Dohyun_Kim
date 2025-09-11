@@ -1,0 +1,6 @@
+Invoking command in '/home/dh/colcon_ws/build/hw2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dh/colcon_ws/src/hw2_pkg -DCMAKE_INSTALL_PREFIX=/home/dh/colcon_ws/install/hw2_pkg
+Invoked command in '/home/dh/colcon_ws/build/hw2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dh/colcon_ws/src/hw2_pkg -DCMAKE_INSTALL_PREFIX=/home/dh/colcon_ws/install/hw2_pkg
+Invoking command in '/home/dh/colcon_ws/build/hw2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dh/colcon_ws/build/hw2_pkg -- -j8 -l8
+Invoked command in '/home/dh/colcon_ws/build/hw2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dh/colcon_ws/build/hw2_pkg -- -j8 -l8
+Invoking command in '/home/dh/colcon_ws/build/hw2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dh/colcon_ws/build/hw2_pkg
+Invoked command in '/home/dh/colcon_ws/build/hw2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dh/colcon_ws/build/hw2_pkg

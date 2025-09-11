@@ -1,0 +1,10 @@
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/uninstall.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/hw2_pkg_uninstall.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/hw2_pkg.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/test.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/edit_cache.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/rebuild_cache.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/list_install_components.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/install.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/install/local.dir
+/home/dh/colcon_ws/build/hw2_pkg/CMakeFiles/install/strip.dir

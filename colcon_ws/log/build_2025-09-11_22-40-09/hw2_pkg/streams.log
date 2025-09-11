@@ -1,0 +1,26 @@
+[0.005s] Invoking command in '/home/dh/colcon_ws/build/hw2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dh/colcon_ws/build/hw2_pkg -- -j8 -l8
+[0.031s] [35m[1mConsolidate compiler generated dependencies of target hw2_pkg[0m
+[0.038s] [ 50%] [32mBuilding CXX object CMakeFiles/hw2_pkg.dir/src/node.cpp.o[0m
+[0.053s] [100%] [32m[1mLinking CXX executable hw2_pkg[0m
+[0.088s] [100%] Built target hw2_pkg
+[0.095s] Invoked command in '/home/dh/colcon_ws/build/hw2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dh/colcon_ws/build/hw2_pkg -- -j8 -l8
+[0.102s] Invoking command in '/home/dh/colcon_ws/build/hw2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dh/colcon_ws/build/hw2_pkg
+[0.108s] -- Install configuration: ""
+[0.108s] -- Installing: /home/dh/colcon_ws/install/hw2_pkg/lib/hw2_pkg/hw2_pkg
+[0.108s] -- Set runtime path of "/home/dh/colcon_ws/install/hw2_pkg/lib/hw2_pkg/hw2_pkg" to ""
+[0.108s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/ament_index/resource_index/package_run_dependencies/hw2_pkg
+[0.108s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/ament_index/resource_index/parent_prefix_path/hw2_pkg
+[0.108s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/environment/ament_prefix_path.sh
+[0.108s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/environment/ament_prefix_path.dsv
+[0.108s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/environment/path.sh
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/environment/path.dsv
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/local_setup.bash
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/local_setup.sh
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/local_setup.zsh
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/local_setup.dsv
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/package.dsv
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/ament_index/resource_index/packages/hw2_pkg
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/cmake/hw2_pkgConfig.cmake
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/cmake/hw2_pkgConfig-version.cmake
+[0.109s] -- Up-to-date: /home/dh/colcon_ws/install/hw2_pkg/share/hw2_pkg/package.xml
+[0.110s] Invoked command in '/home/dh/colcon_ws/build/hw2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dh/colcon_ws/build/hw2_pkg
